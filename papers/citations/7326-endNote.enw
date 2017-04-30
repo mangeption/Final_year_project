@@ -1,0 +1,21 @@
+	
+%A Hodnett, Kathleen
+%A Hsieh, Heng-Hsing
+%D 2012
+%T Application Of Cascade-Correlation Neural Networks In Developing Stock Selection Models For Global Equities
+%B 2012
+%9 Stock Selection; Firm-Specific Attributes; Artificial Neural Networks
+%! Application Of Cascade-Correlation Neural Networks In Developing Stock Selection Models For Global Equities
+%K Stock Selection; Firm-Specific Attributes; Artificial Neural Networks
+%X       We investigate the potential of   artificial neural networks (ANN) in the stock selection process of actively managed funds. Two ANN models are constructed to perform stock selection, using the Dow Jones (DJ) Sector Titans as the research database. The cascade-correlation algorithm of   Fahlman and Lebiere (1990/1991) is combined with embedded learning rules, namely the backpropagation learning rule and the extended Kalman filter learning rule to forecast the cross-section of global equity returns. The main findings support the use of artificial neural networks for financial forecasting as an active portfolio management tool. In particular, fractile analysis and risk-adjusted return performance metrics provide evidence that the model trained via the extended Kalman filter rule had greater strength in identifying future top performers for global equities than the model trained via the backpropagation learning rule. There is no distinguishable difference between the performances of the bottom quartiles formed by both ANN models. The zero-investment portfolios formed by longing the top quartiles and simultaneously shorting the bottom quartiles or the market proxy exhibit statistically significant Jensen’s alpha and continues to accumulate positive returns over the out-of-sample period for both ANN models. On the other hand, the zero-investment portfolios formed by longing the bottom quartiles and simultaneously shorting the market proxy exhibit statistically significant Jensen’s alpha and continues to accumulate losses over the out-of-sample period for both ANN models. The implementation of the extended Kalman filter rule in training artificial neural networks for applications involving noisy financial data is recommended.        
+%U https://cluteinstitute.com/ojs/index.php/IBER/article/view/7326
+%0 Journal Article
+%R 10.19030/iber.v11i4.7326
+%& 375
+%P 22
+%J International Business &amp; Economics Research Journal (IBER)
+%V 11
+%N 4
+%@ 2157-9393
+%8 2012-10-03
+%7 2012-03-21

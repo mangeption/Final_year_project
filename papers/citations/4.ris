@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - A feature weighted support vector machine and K-nearest neighbor algorithm for stock market indices prediction
+JO  - Expert Systems with Applications
+VL  - 80
+IS  - 
+SP  - 340
+EP  - 355
+PY  - 2017/9/1/
+T2  - 
+AU  - Chen, Yingjun
+AU  - Hao, Yongtao
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2017.02.044
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417301367
+KW  - Feature weighted SVM (FWSVM)
+KW  - Information gain
+KW  - Feature weighted K-nearest neighbor (FWKNN)
+KW  - Stock market indices
+ER  - 
+
+

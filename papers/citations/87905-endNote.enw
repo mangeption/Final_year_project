@@ -1,0 +1,16 @@
+
+
+	
+%A Kumar Chandar, S.
+%A Sumathi, M.
+%A Sivanandam, S. N.
+%D 2016
+%T Prediction of Stock Market Price using Hybrid of Wavelet Transform and Artificial Neural Network
+%B 2016
+%9 Artificial Neural Network, Discrete Wavelet Transform (DWT), Time Series and Stock Market Prediction
+%! Prediction of Stock Market Price using Hybrid of Wavelet Transform and Artificial Neural Network
+%K Artificial Neural Network, Discrete Wavelet Transform (DWT), Time Series and Stock Market Prediction
+%X  Background/Objectives:  Accurate prediction of stock market is highly challenging. This paper presents a forecasting model based on Discrete Wavelet Transform (DWT) and Artificial Neural Network (ANN) for predicting financial time series.  Methods/Statistical analysis:  The idea of forecasting stock market prices with discrete wavelet transform is the central element of this paper. The proposed forecasting model uses the Discrete Wavelet Transform to decompose the financial time series data. The obtained approximation and detail coefficients after decomposition of the original time series data are used as input variables of back propagation neural network to forecast future stock prices. Approximation coefficients can characterize the coarse structure of the data and detail coefficients capture ruptures, discontinuities and singularities in the original data, to recognize the long-term trends in the original data.  Findings:  The proposed model was applied to five datasets. For all of the datasets, accuracy measures showed that the presented model outperforms a conventional model. It also proved that the hybrid forecasting technique has achieved better results compared with the approach which is not using the wavelet transform.  Applications/Improvements:  The accuracy of the proposed hybrid method can also be improved by developing a model using artificial neural network with Adaptive Neuro Fuzzy Interference System.
+%U http://www.indjst.org/index.php/indjst/article/view/87905
+%J Indian Journal of Science and Technology
+%@ 0974 -5645|escape}

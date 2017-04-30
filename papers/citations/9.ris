@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Forecasting daily stock market return using dimensionality reduction
+JO  - Expert Systems with Applications
+VL  - 67
+IS  - 
+SP  - 126
+EP  - 139
+PY  - 2017/1//
+T2  - 
+AU  - Zhong, Xiao
+AU  - Enke, David
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2016.09.027
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417416305115
+KW  - Daily stock return forecasting
+KW  - Principal component analysis (PCA)
+KW  - Fuzzy robust principal component analysis (FRPCA)
+KW  - Kernel-based principal component analysis (KPCA)
+KW  - Artificial neural networks (ANNs)
+KW  - Trading strategies
+ER  - 
+
+

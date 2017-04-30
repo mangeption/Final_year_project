@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Stock trend prediction based on a new status box method and AdaBoost probabilistic support vector machine
+JO  - Applied Soft Computing
+VL  - 49
+IS  - 
+SP  - 385
+EP  - 398
+PY  - 2016/12//
+T2  - 
+AU  - Zhang, Xiao-dan
+AU  - Li, Ang
+AU  - Pan, Ran
+SN  - 1568-4946
+DO  - http://dx.doi.org/10.1016/j.asoc.2016.08.026
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494616304203
+KW  - Stock trend prediction
+KW  - Status box method
+KW  - Piecewise linear representation
+KW  - AdaBoost
+KW  - Probabilistic support vector machine
+ER  - 
+
+

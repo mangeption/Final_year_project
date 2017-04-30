@@ -1,0 +1,49 @@
+TY  - CONF
+TI  - A new architecture for modeling and prediction of dynamic systems using neural networks: Application in Tehran stock exchange
+T2  - 2016 4th International Conference on Control, Instrumentation, and Automation (ICCIA)
+SP  - 196
+EP  - 201
+AU  - M. T. Motlagh
+AU  - H. Khaloozadeh
+PY  - 2016
+KW  - autoregressive processes
+KW  - recurrent neural nets
+KW  - stock markets
+KW  - NARX
+KW  - RNN
+KW  - RTRL
+KW  - Tehran securities exchange data
+KW  - Tehran stock exchange
+KW  - artificial neural network
+KW  - dynamic system modeling
+KW  - dynamic system prediction
+KW  - multistep ahead prediction
+KW  - neural network prediction
+KW  - nonlinear autoregressive model process with eXogenous input
+KW  - nonlinear characteristic
+KW  - real-time recurrent learning network
+KW  - recurrent Neural Networks
+KW  - stock market forecasting
+KW  - stock market modeling
+KW  - stock price prediction
+KW  - Biological neural networks
+KW  - Neurons
+KW  - Predictive models
+KW  - Recurrent neural networks
+KW  - Stock markets
+KW  - Training
+KW  - multi-step ahead prediction
+KW  - neural network
+KW  - predict
+KW  - stock price
+DO  - 10.1109/ICCIAutom.2016.7483160
+JO  - 2016 4th International Conference on Control, Instrumentation, and Automation (ICCIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 4th International Conference on Control, Instrumentation, and Automation (ICCIA)
+Y1  - 27-28 Jan. 2016
+ER  - 
+
+
