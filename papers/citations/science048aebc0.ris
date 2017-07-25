@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Combining multiple feature selection methods for stock prediction: Union, intersection, and multi-intersection approaches
+JO  - Decision Support Systems
+VL  - 50
+IS  - 1
+SP  - 258
+EP  - 269
+PY  - 2010/12//
+T2  - 
+AU  - Tsai, Chih-Fong
+AU  - Hsiao, Yu-Chieh
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/j.dss.2010.08.028
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923610001521
+KW  - Stock prediction
+KW  - Feature selection
+KW  - Data mining
+KW  - Principal Component Analysis
+KW  - Genetic algorithm
+KW  - Decision trees
+AB  - To effectively predict stock price for investors is a very important research problem. In literature, data mining techniques have been applied to stock (market) prediction. Feature selection, a pre-processing step of data mining, aims at filtering out unrepresentative variables from a given dataset for effective prediction. As using different feature selection methods will lead to different features selected and thus affect the prediction performance, the purpose of this paper is to combine multiple feature selection methods to identify more representative variables for better prediction. In particular, three well-known feature selection methods, which are Principal Component Analysis (PCA), Genetic Algorithms (GA) and decision trees (CART), are used. The combination methods to filter out unrepresentative variables are based on union, intersection, and multi-intersection strategies. For the prediction model, the back-propagation neural network is developed. Experimental results show that the intersection between PCA and GA and the multi-intersection of PCA, GA, and CART perform the best, which are of 79% and 78.98% accuracy respectively. In addition, these two combined feature selection methods filter out near 80% unrepresentative features from 85 original variables, resulting in 14 and 17 important features respectively. These variables are the important factors for stock prediction and can be used for future investment decisions.
+ER  - 
+
+

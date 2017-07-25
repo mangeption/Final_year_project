@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Developing an approach to evaluate stocks by forecasting effective features with data mining methods
+JO  - Expert Systems with Applications
+VL  - 42
+IS  - 3
+SP  - 1325
+EP  - 1339
+PY  - 2015/2/15/
+T2  - 
+AU  - Barak, Sasan
+AU  - Modarres, Mohammad
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2014.09.026
+UR  - http://www.sciencedirect.com/science/article/pii/S095741741400565X
+KW  - Stock market
+KW  - Data mining
+KW  - Classification algorithm
+KW  - Feature selection
+KW  - Function-based clustering method
+AB  - Abstract
+In this research, a novel approach is developed to predict stocks return and risks. In this three stage method, through a comprehensive investigation all possible features which can be effective on stocks risk and return are identified. Then, in the next stage risk and return are predicted by applying data mining techniques for the given features. Finally, we develop a hybrid algorithm, on the basis of filter and function-based clustering; the important features in risk and return prediction are selected then risk and return re-predicted. The results show that the proposed hybrid model is a proper tool for effective feature selection and these features are good indicators for the prediction of risk and return. To illustrate the approach as well as to train data and test, we apply it to Tehran Stock Exchange (TSE) data from 2002 to 2011.
+ER  - 
+
+

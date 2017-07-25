@@ -1,0 +1,22 @@
+TY  - CHAP
+AU  - Suk, Heung-Il
+T1  - Chapter 1 - An Introduction to Neural Networks and Deep Learning
+BT  - Deep Learning for Medical Image Analysis
+PB  - Academic Press
+CY  - 
+PY  - 2017///
+SP  - 3
+EP  - 24
+SN  - 978-0-12-810408-8
+DO  - https://doi.org/10.1016/B978-0-12-810408-8.00002-X
+UR  - http://www.sciencedirect.com/science/article/pii/B978012810408800002X
+KW  - Neural networks
+KW  - Convolutional neural network
+KW  - Deep learning
+KW  - Deep belief network
+KW  - Deep Boltzmann machine
+AB  - Abstract
+Artificial neural networks, conceptually and structurally inspired by neural systems, are of great interest along with deep learning, thanks to their great successes in various fields including medical imaging analysis. In this chapter, we describe the fundamental concepts and ideas of (deep) neural networks and explain algorithmic advances to learn network parameters efficiently by avoiding overfitting. Specifically, this chapter focuses on introducing (i) feed-forward neural networks, (ii) gradient descent-based parameter optimization algorithms, (iii) different types of deep models, (iv) technical tricks for fast and robust training of deep models, and (v) open source deep learning frameworks for quick practice.
+ER  - 
+
+

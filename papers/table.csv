@@ -1,0 +1,16 @@
+﻿Table 1.
+        A summery of recent studies on stock market prediction.
+Authors,Data type (Num.,Target output,Num. of,Sampling,Method,Performance
+(Year),of input features,,samples (Training:,period,,measure
+,× lagged times),,Validation: Test),(Frequency),,
+Enke and Mehdiyev (2013),US S&P 500 index (20 × 1),Stock price,361,Jan-1980 to Jan-2010 (daily),Feature selection+fuzzy clustering+fuzzy NN,RMSE
+Niaki and Hoseinzade (2013),Korea KOSPI200 index (27 × 1),Market direction (up or down),3650 (8:1:1),1-Mar-1994 to 30-Jun-2008 (daily),Feature selection+ANN,statistical tests
+Cervelló-Royo et al. (2015),US Dow Jones index (1 × 10),Market trend (bull/bear-flag),91<comma>307,22-May-2000 to 29-Nov-2013 (15-min),Template matching,trading simulation
+Patel<comma> Shah<comma> Thakkar<comma> and Kotecha (2015),India CNX and BSE indices (10 × 1),Stock price,2393*,Jan-2003 to Dec-2012 (daily),SVR+ {ANN<comma> RF<comma> SVR},MAPE<comma> MAE<comma> rRMSE<comma> MSE
+T.-l. Chen and Chen (2016),Taiwan TAIEXa and US NASDAQb indices (27 × 20),Market trend (bull-flag),3818a<comma> * 3412b<comma> * (7:0:1),7-Jan-1989 to 24-Mar-2004 (daily),Dimension reduction+template matching,trading simulation
+Chiang<comma> Enke<comma> Wu<comma> and Wang (2016),World 22 stock market indices ({3∼5} × 1),Trading signal (stock price),756 (2:0:1),Jan-2008 to Dec-2010 (daily),Particle swarm optimization +ANN,trading simulation
+Chourmouziadis and Chatzoglou (2016),Greece ASE general index (8 × 1),Portfolio composition (cash:stock),3907*,15-Nov-1996 to 5-Jun-2012 (daily),Fuzzy system,trading simulation
+Qiu<comma> Song<comma> and Akagi (2016),Japan Nikkei 225 index (71 × 1),Stock return,237 (7:0:3),Nov-1993 to Jul-2013 (monthly),ANN+{genetic algorithm<comma> simulated annealing},MSE
+Arévalo<comma> Niño<comma> Hernández<comma> and Sandoval (2016),US Apple stock (3× {2∼15}+2),Stock price,19<comma>109 (17:0:3),2-Sep-2008 to 7-Nov-2008 (1-minute),Deep NN,MSE<comma> directional accuracy
+Zhong and Enke (2017),US SPDR S&P 500 ETF (SPY) (60 × 1),Market direction (up or down),2518 (14:3:3),1-Jun-2003 to 31-May-2013 (daily),Dimension reduction+ANN,trading simulation<comma> statistical tests
+Our study,Korea KOSPI 38 stock returns (38 × 10),Stock return,73<comma>041 (3:1:1),4-Jan-2010 to 30-Dec-2014 (5-minute),Data representation+deep NN,NMSE<comma> RMSE<comma> MAE<comma> MI

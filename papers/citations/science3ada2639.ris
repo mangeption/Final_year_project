@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Dynamic Ridge Polynomial Neural Network: Forecasting the univariate non-stationary and stationary trading signals
+JO  - Expert Systems with Applications
+VL  - 38
+IS  - 4
+SP  - 3765
+EP  - 3776
+PY  - 2011/4//
+T2  - 
+AU  - Ghazali, Rozaida
+AU  - Hussain, Abir Jaafar
+AU  - Liatsis, Panos
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2010.09.037
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417410009942
+KW  - Dynamic Ridge Polynomial Neural Network
+KW  - Financial signals
+KW  - Higher order neural network
+KW  - Time series prediction
+AB  - This paper considers the prediction of noisy time series data, specifically, the prediction of financial signals. A novel Dynamic Ridge Polynomial Neural Network (DRPNN) for financial time series prediction is presented which combines the properties of both higher order and recurrent neural network. In an attempt to overcome the stability and convergence problems in the proposed DRPNN, the stability convergence of DRPNN is derived to ensure that the network posses a unique equilibrium state. In order to provide a more accurate comparative evaluation in terms of profit earning, empirical testing used in this work encompass not only on the more traditional criteria of NMSE, which concerned at how good the forecasts fit their target, but also on financial metrics where the objective is to use the networks predictions to generate profit. Extensive simulations for the prediction of one and five steps ahead of stationary and non-stationary time series were performed. The resulting forecast made by DRPNN shows substantial profits on financial historical signals when compared to various neural networks; the Pi-Sigma Neural Network, the Functional Link Neural Network, the feedforward Ridge Polynomial Neural Network, and the Multilayer Perceptron. Simulation results indicate that DRPNN in most cases demonstrated advantages in capturing chaotic movement in the financial signals with an improvement in the profit return and rapid convergence over other network models.
+ER  - 
+
+

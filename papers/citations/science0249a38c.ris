@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - A combined neural network approach for texture classification
+JO  - Neural Networks
+VL  - 8
+IS  - 6
+SP  - 975
+EP  - 987
+PY  - 1995///
+T2  - 
+AU  - Raghu, P.P.
+AU  - Poongodi, R.
+AU  - Yegnanarayana, B.
+SN  - 0893-6080
+DO  - https://doi.org/10.1016/0893-6080(95)00013-P
+UR  - http://www.sciencedirect.com/science/article/pii/089360809500013P
+KW  - Texture
+KW  - Texture classification
+KW  - Multichannel filtering
+KW  - Multiresolution
+KW  - Gabor filters
+KW  - Self-organizing maps
+KW  - Multilayer
+KW  - Remote sensing
+AB  - In this article, we present a two-stage neural network structure that combines the characteristics of self-organizing map (SOM) and multilayer perceptron (MLP) for the problem of texture classification. The texture features are extracted using a multichannel approach. The channels comprise of a set of Gabor filters having different sizes, orientations, and frequencies to constitute N-dimensional feature vectors. SOM acts as a clustering mechanism to map these N-dimensional feature vectors onto its M-dimensional output space, where in our experiments, the value of M was taken as two. This, in turn, forms the feature space from which the features are fed into an MLP for training and subsequent classification. It is shown that the disadvantage of using Gabor filters in texture analysis, namely, the higher dimensionality of the Gaborian feature space, is overcome by the reduction in the dimensionality of the feature space achieved by SOM. This results in a significant reduction in the learning time of MLP and hence the overall classification time. It is found that this mechanism increases the interclass distance (average distance among the vectors of different classes) and at the same time decreases the intraclass distance (average distance among the vectors of the same class) in the feature space, thereby reducing the complexity of classification. Experiments were performed on images containing tiles of natural textures as well as image data from remote sensing.
+ER  - 
+
+

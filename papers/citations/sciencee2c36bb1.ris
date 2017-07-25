@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Applying Artificial Neural Networks to prediction of stock price and improvement of the directional prediction index – Case study of PETR4, Petrobras, Brazil
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 18
+SP  - 7596
+EP  - 7606
+PY  - 2013/12/15/
+T2  - 
+AU  - de Oliveira, Fagner A.
+AU  - Nobre, Cristiane N.
+AU  - Zárate, Luis E.
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2013.06.071
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417413004703
+KW  - Artificial Neural Network
+KW  - Stock market
+KW  - POCID
+AB  - Abstract
+Predicting the direction of stock price changes is an important factor, as it contributes to the development of effective strategies for stock exchange transactions and attracts much interest in incorporating variables historical series into the mathematical models or computer algorithms in order to produce estimations of expected price fluctuations. The purpose of this study is to build a neural model for the financial market, allowing predictions of stocks closing prices future behavior negotiated in BM&amp;FBOVESPA in the short term, using the economic and financial theory, combining technical analysis, fundamental analysis and analysis of time series, to predict price behavior, addressing the percentage of correct predictions of price series direction (POCID or Prediction of Change in Direction). The aim of this work is to understand the information available in the financial market and identify the variables that drive stock prices. The methodology presented may be adapted to other companies and their stock. Petrobras stock PETR4, traded in BM&amp;FBOVESPA, was used as a case study. As part of this effort, configurations with different window sizes were designed, and the best performance was achieved with a window size of 3, which the POCID index of correct direction predictions was 93.62% for the test set and 87.50% for a validation set.
+ER  - 
+
+
